@@ -9,6 +9,7 @@ django-jenkins = "*"
 pep8 = "*"
 pyflakes = "*"
 awsebcli = "*"
+gunicorn = "*"
 
 [dev-packages]
 
