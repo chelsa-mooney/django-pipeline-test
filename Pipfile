@@ -8,6 +8,7 @@ django = "*"
 django-jenkins = "*"
 pep8 = "*"
 pyflakes = "*"
+awsebcli = "*"
 
 [dev-packages]
 
