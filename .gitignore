@@ -46,6 +46,7 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
+test-report.xml
 *.cover
 *.py,cover
 .hypothesis/
@@ -132,6 +133,3 @@ dmypy.json
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
-
-# Test Reports
-reports/*
