@@ -134,4 +134,4 @@ dmypy.json
 !.elasticbeanstalk/*.global.yml
 
 # Test Reports
-reports/
+reports/*
