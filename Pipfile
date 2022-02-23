@@ -4,13 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django-jenkins = "*"
-pep8 = "*"
-pyflakes = "*"
-awsebcli = "*"
 gunicorn = "==20.1.0"
 Django = "==4.0.2"
-pytest-django = "*"
 pytest = "*"
 
 [dev-packages]
